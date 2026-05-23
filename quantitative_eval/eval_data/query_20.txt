@@ -1,0 +1,20 @@
+Is vehicle {} better at reducing the instances of time violations compared to vehicle {}?
+Is vehicle {} more accomplished in avoiding time violations than vehicle {}?
+Does vehicle {} exhibit a less frequent occurrence of time violations than vehicle {}?
+Is vehicle {} more efficient in reducing time violations in comparison to vehicle {}?
+Does vehicle {} excel in mitigating time violations more than vehicle {}?
+Has vehicle {} demonstrated a reduced level of time violations compared to vehicle {}?
+Does vehicle {} surpass vehicle {} in reducing time violations?
+Is vehicle {} more effective in avoiding time violations than vehicle {}?
+Is the time violations rate lower for vehicle {} than for vehicle {}?
+Does vehicle {} manage to reduce time violations more effectively than vehicle {}?
+Is vehicle {} more efficient at averting time violations than vehicle {}?
+Is the time violation rate lower for vehicle {} as opposed to vehicle {}?
+Does vehicle {} have better success in reducing time violations compared to vehicle {}?
+Is vehicle {} more efficient in avoiding time violations than vehicle {}?
+Is the time violations rate for vehicle {} lesser than that for vehicle {}?
+Does vehicle {} succeed more in reducing time violations than vehicle {}?
+Is vehicle {} more efficient in averting time violations compared to vehicle {}?
+Is the rate of time violations lesser for vehicle {} than vehicle {}?
+Does vehicle {} excel more in reducing time violations compared to vehicle {}?
+Is vehicle {} more efficient in stopping time violations than vehicle {}?

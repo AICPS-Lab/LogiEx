@@ -1,0 +1,20 @@
+What is the probable delay in picking up the passenger while traveling in vehicle {}?
+Can you estimate the probability of the passenger being picked up late in vehicle {}?
+How big is the chance that the pick-up time for the passenger will be delayed if they are in vehicle {}?
+What's the anticipated delay rate when picking up a passenger while on vehicle {}?
+Can you calculate the probability of the passenger being picked up later than planned while in vehicle {}?
+How strong is the probability that the passenger won't be picked up promptly when in vehicle {}?
+What is the anticipated delay rate for passenger pick-up when using vehicle {}?
+Can you calculate the probability of the passenger being picked up late when using vehicle {}?
+What is the extent of the chance that the passenger won't be on time if they travel in vehicle {}?
+What's the anticipated delay rate when picking up the passenger whilst commuting in vehicle {}?
+Can you measure the probability of the passenger being collected behind schedule when in vehicle {}?
+How substantial is the probability that the passenger will be late for pick up if they are in vehicle {}?
+What's the anticipated delay rate for picking up the passenger in vehicle {}?
+Could you calculate the probability of the passenger being picked up behind schedule in vehicle {}?
+How sizable is the probability of the passenger not being picked up punctually when riding in vehicle {}?
+What is the projected delay frequency for passenger pick-up when using vehicle {}?
+Can you calculate the probability of the passenger being late for pick-up in vehicle {}?
+How substantial is the probability that the passenger won't be picked up punctually if they are in vehicle {}?
+What's the anticipated delay rate in picking up the passenger on traveling in vehicle {}?
+Could you measure the probability of the passenger being picked up past the scheduled time in vehicle {}?

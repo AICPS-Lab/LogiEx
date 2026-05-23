@@ -1,0 +1,20 @@
+What's the leftover passenger space in vehicle {}?
+How many more passengers can vehicle {} hold?
+What is the highest number of added passengers that vehicle {} can contain?
+What's the left over capacity for passengers in vehicle {}?
+How many more passengers can vehicle {} take?
+What's the max number of additional passengers that vehicle {} could hold?
+What's the leftover passenger space in vehicle {}?
+What's the tally of extra passengers vehicle {} can hold?
+What's the highest count of additional passengers that vehicle {} can take?
+What's the leftover capacity for passengers in vehicle {}?
+What's the count of more passengers vehicle {} can hold?
+What's the highest additional passenger count that vehicle {} can handle?
+What's the leftover seating capacity of vehicle {}?
+How many extra passengers can vehicle {} carry?
+What's the highest quantity of supplementary passengers that vehicle {} can hold?
+What's the leftover passenger room in vehicle {}?
+How many more passengers can be seated in vehicle {}?
+What's the maximum capacity for more passengers in vehicle {}?
+What's the leftover seating capacity of vehicle {}?
+How many more passengers can vehicle {} hold?

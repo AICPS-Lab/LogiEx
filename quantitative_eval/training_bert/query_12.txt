@@ -1,0 +1,80 @@
+What's the predicted delay frequency when dropping off a passenger traveling in vehicle {}?
+How would you measure the likelihood of the passenger being late for drop-off in vehicle {}?
+What's the probability of passenger not being able to reach on time if he/she is traveling in vehicle {}?
+What is the anticipated delay rate for discharging a passenger while traveling in vehicle {}?
+Could you measure the probability of the passenger being delayed upon arrival in vehicle {}?
+Can you assess the probability that the passenger's drop off will be delayed when using vehicle {}?
+What is the projected delay rate for passenger drop off while on board vehicle {}?
+Could you measure the probability of the passenger being dropped off late in vehicle {}?
+Can you assess the possibility of the passenger being dropped off tardily when using vehicle {}?
+What's the predicted delay ratio when the passenger is dropped off using vehicle {}?
+How do you calculate the probability of a passenger getting dropped off beyond the scheduled time in vehicle {}?
+How considerable is the chance that the passenger wouldn't be dropped off punctually if they are in vehicle {}?
+What's the anticipated delay rate for passenger drop off when using vehicle {}?
+Can you measure the probability of the passenger getting dropped off behind schedule in vehicle {}?
+How big is the possibility that the passenger won't arrive on time when transported in vehicle {}?
+What's the anticipated delay rate for passenger drop-off while transiting in vehicle {}?
+Could you specify the probability of the passenger getting off later than planned in vehicle {}?
+How great is the prospect of the passenger not reaching their destination on time when using vehicle {}?
+What's the anticipated delay rate for the passenger drop-off when travelling in vehicle {}?
+Can you measure the probability of delayed passenger drop-off in vehicle {}?
+How great is the probability that a passenger will be late if they are in vehicle {}?
+What's the anticipated delay percentage when dropping off a passenger while traveling in vehicle {}?
+Could you provide a numerical value for the probability that a passenger will be dropped off behind schedule while traveling in vehicle {}?
+How consequential is the probability that the passenger will not reach their destination on time while traveling in vehicle {}?
+What's the anticipated delay rate for passenger drop-off when on vehicle {}?
+Can you measure the probability of delayed passenger drop-off for vehicle {}?
+What's the degree of potential for the passenger to be delayed when using vehicle {}?
+What is the anticipated delay rate when the passenger is dropped off while commuting in vehicle {}?
+Can you measure the probability of a later than expected drop-off of the passenger in vehicle {}?
+How considerable is the chance that the passenger won't be dropped off punctually if they are in vehicle {}?
+What is the predicted latency for passenger drop-off when commuting in a vehicle {}?
+Can you measure the probability of a delayed drop-off event for a passenger in vehicle {}?
+What's the level of probability for a passenger to experience a late drop-off when traveling in vehicle {}?
+What's the anticipated delay rate for passenger drop-off when utilizing vehicle {}?
+How would you measure the probability of the passenger arriving late when transported in vehicle {}?
+What's the extent of the possibility that the passenger won't be on schedule for drop-off if they're riding in vehicle {}?
+What's the anticipated delay rate for passenger drop-off when using vehicle {}?
+Can you estimate the possibility of the passenger being tardier than planned in vehicle {}?
+How considerable is the probability that the passenger won't be dropped off promptly when using vehicle {}?
+What's the anticipated delay rate for passenger drop-off when journeying in vehicle {}?
+What's the probability for the passenger to be offloaded behind schedule in vehicle {}?
+How considerable is the risk that the passenger will fail to get dropped off at the right time when using vehicle {}?
+What's the anticipated frequency of delay when a passenger is dropped off in vehicle {}?
+The probability that the passenger will be dropped off beyond the scheduled time in vehicle {}, can you measure it?
+How much is the possibility that the passenger will be late if we use vehicle {} for drop off?
+What's the anticipated delay rate for passenger drop-off when using vehicle {}?
+How would you measure the possibility of the passenger being dropped off behind schedule in vehicle {}?
+How important is the probability of the passenger failing to be dropped off timely when in vehicle {}?
+What is the anticipated delay frequency for offloading the passenger when journeying in vehicle {}?
+Could you measure the probability of the passenger being dropped off beyond the scheduled time in vehicle {}?
+What is the magnitude of the odds that the passenger won't get dropped off in a timely manner if riding in vehicle {}?
+What's the predicted delay rate for passenger drop-off in vehicle {}?
+Could you determine the probability of a late passenger drop-off in vehicle {}?
+Can you assess the probability of the passenger being late when riding in vehicle {}?
+What's the forecasted delay rate when the passenger is being dropped off in vehicle {}?
+What is the probability estimation that the passenger will not be dropped off as planned in vehicle {}?
+What is the prominence of the possibility that a passenger's drop-off might be delayed in vehicle {}?
+What's the anticipated delay rate when dropping off a passenger with vehicle {}?
+Could you measure the probability of the passenger being late for drop-off while using vehicle {}?
+How substantial is the chance that the passenger won't be dropped off promptly when using vehicle {}?
+What is the anticipated delay frequency when offloading passengers from vehicle {}?
+What are the odds of the passenger being late for drop-off when commuting in vehicle {}?
+How considerable is the chance that the passenger may not reach their destination timely if put in vehicle {}?
+What is the anticipated delay rate for passenger drop-off while on a journey in vehicle {}?
+Can you determine the probability of a passenger being delivered later than planned while in vehicle {}?
+How high is the probability that the passenger will fail to get dropped off punctually when travelling in vehicle {}?
+What's the anticipated delay rate when offloading the passenger in vehicle {}?
+Could you estimate the probability of the passenger being offloaded later than planned in vehicle {}?
+How substantial is the probability that the passenger may not reach their destination punctually in vehicle {}?
+What is the projected delay rate for passenger drop-off when using vehicle {}?
+Can you calculate the probability of the passenger being late for drop-off in vehicle {}?
+How great is the probability that the passenger will experience a late drop-off in vehicle {}?
+What's the anticipated delay rate when a passenger is dropped off by vehicle {}?
+Can you estimate the probability of late passenger drop-off when using vehicle {}?
+How substantial is the risk of the passenger not arriving on schedule if transported in vehicle {}?
+What's the anticipated delay rate when dropping off the passenger while using vehicle {}?
+How can you measure the probability of the passenger being dropped off behind the planned schedule in vehicle {}?
+What is the probability that the passenger will not be dropped off punctually when using vehicle {}?
+What's the anticipated delay rate for passenger drop-off when in vehicle {}?
+Can you calculate the probability of the passenger getting off late in vehicle {}?

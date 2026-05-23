@@ -1,0 +1,20 @@
+What if vehicle {} suffers a breakdown?
+What's the next step if vehicle {} can't be operated?
+What's the backup plan if vehicle {} isn't usable?
+What occurs if vehicle {} encounters a breakdown?
+What is our course of action if vehicle {} becomes non-operational?
+What's the fallback if vehicle {} is unusable?
+What's the course of action if vehicle {} shuts down?
+What's our next step if vehicle {} is not operational?
+What's the strategy if vehicle {} is non-functional?
+What occurs if vehicle {} malfunctions?
+What is our course of action if vehicle {} is not operational?
+What is the strategy if vehicle {} is unusable?
+What if vehicle {} experiences a breakdown?
+What's our course of action if vehicle {} has stopped functioning?
+What are we to do if vehicle {} is incapable of use?
+What if vehicle {} experiences a mechanical failure?
+What are we supposed to do if vehicle {} is not operational?
+What's the strategy if vehicle {} is not in working condition?
+What if vehicle {} malfunctions?
+What's the procedure if vehicle {} is not functional?

@@ -1,0 +1,20 @@
+Can you tell me the number of stops someone in vehicle {} will encounter during their journey?
+Could you please confirm the total number of stops for a passenger traveling in vehicle {}?
+Can you provide information on the amount of stops for a passenger using vehicle {}?
+Can you tell me how many stops a passenger is going to encounter while using vehicle {}?
+Could you identify the quantity of stops for a passenger travelling in vehicle {}?
+Can you provide details on the number of stops a passenger will have to manage on the journey in vehicle {}?
+Could you tell me how many stops a passenger will encounter while on a journey in vehicle {}?
+Can you indicate the count of stops for a passenger travelling in vehicle {}?
+Can you enlighten me on the aggregate number of stops a passenger will have while in vehicle {}?
+Can you tell me the amount of stops a passenger will encounter while traveling in vehicle {}?
+Could you detail the number of stops for a passenger travelling in vehicle {}?
+Can you update me on the total number of stops for a passenger commuting in vehicle {}?
+Can you tell me how many stops are there for a passenger traveling in vehicle {}?
+What's the count of stops for a passenger in vehicle {}?
+Could you provide the number of stops a passenger onboard vehicle {} will experience?
+Do you know the number of halts a passenger will encounter in vehicle {}?
+Can you clarify the number of stops for a traveler in vehicle {}?
+Can you reveal the amount of stops a passenger will face while commuting in vehicle {}?
+Can you tell me the count of stops a passenger encounters when journeying in vehicle {}?
+Could you clarify the count of stops for a passenger travelling in vehicle {}?

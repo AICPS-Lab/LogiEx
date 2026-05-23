@@ -1,0 +1,80 @@
+Is there a route offered by vehicle {} that has less stops compared to vehicle {}?
+Can traveling via vehicle {} potentially have less stops than when using vehicle {}?
+Is it possible for passengers to encounter less stops when travelling in vehicle {} over vehicle {}?
+Is there a route offered by vehicle {} with fewer stops than that of vehicle {}?
+Is it likely to experience less stops when traveling in vehicle {} as opposed to vehicle {}?
+Would vehicle {} provide a journey with reduced stops in comparison to vehicle {}?
+Is there a route that vehicle {} provides with less stops than vehicle {}?
+Is the journey on vehicle {} characterized by less stops than with vehicle {}?
+Could there be less stopping points for passengers when they are on vehicle {} compared to vehicle {}?
+Is there a chance that vehicle {} would halt less often than vehicle {}?
+Is it possible to experience less stops with vehicle {} when compared to vehicle {}?
+Do we anticipate fewer stops when using vehicle {} over vehicle {}?
+Is there a route with fewer stops offered by vehicle {} compared to vehicle {}?
+Does journeying in vehicle {} involve less stops than when using vehicle {}?
+Would there be less stopovers when onboard vehicle {} rather than vehicle {}?
+Is vehicle {} providing a journey that involves less stops than vehicle {}?
+Is the number of stops lower if travelling in vehicle {} than in vehicle {}?
+Is the frequency of stoppage expected to be lower when passengers are allocated vehicle {} instead of vehicle {}?
+Is there a route that vehicle {} provides with less stops compared to vehicle {}?
+Can one anticipate fewer stops while journeying in vehicle {} as opposed to vehicle {}?
+Is the frequency of stoppage decreases when traveling with vehicle {} rather than vehicle {}?
+Is the route offered by vehicle {} having less stops compared to the one offered by vehicle {}?
+Does using vehicle {} lead to less stops in the route as opposed to vehicle {}?
+Can passengers anticipate less often stops if they're in vehicle {} rather than in vehicle {}?
+Is the route of vehicle {} equipped with fewer stops than that of vehicle {}?
+Does journeying in vehicle {} have less stops than journeying in vehicle {}?
+Are there fewer stops expected when traveling via vehicle {} rather than vehicle {}?
+Is vehicle {} providing a route with less stops compared to vehicle {}?
+Can one anticipate fewer stops when journeying in vehicle {} as opposed to vehicle {}?
+Do passengers get to experience fewer stops when they use vehicle {} as opposed to vehicle {}?
+Is there a route where vehicle {} makes fewer stops than vehicle {}?
+Would the number of stops be less if we travel in vehicle {} instead of vehicle {}?
+When riding vehicle {}, should we anticipate less stops compared to vehicle {}?
+Is the route of vehicle {} characterized by fewer stops than that of vehicle {}?
+Compared to vehicle {}, does vehicle {} involve making less stops?
+Would boarding vehicle {} decrease the number of stops compared to vehicle {}?
+Is the route offered by vehicle {} less stop-ridden compared to vehicle {}?
+Does choosing vehicle {} mean having fewer stops than if I choose vehicle {}?
+Is the likelihood of less stopping greater with vehicle {} than with vehicle {}?
+Is there a route providing less stops for vehicle {} than vehicle {}?
+Are there less stops encountered when in vehicle {} compared to being in vehicle {}?
+Is less stopping expected for passengers if they are assigned vehicle {} over vehicle {}?
+Is there a route with fewer stops available for vehicle {} compared to vehicle {}?
+Do passengers experience fewer stops when traveling in vehicle {} rather than vehicle {}?
+When assigned to vehicle {}, can passengers anticipate fewer stops in contrast to vehicle {}?
+Is the route for vehicle {} likely to feature fewer stops compared to that of vehicle {}?
+Does choosing vehicle {} over vehicle {} reduce the number of stops?
+Would taking vehicle {} involve fewer stops than taking vehicle {}?
+Is there a possibility of encountering fewer stops when using vehicle {} instead of vehicle {}?
+Is the path offered by vehicle {} less stop-reliant than the one from vehicle {}?
+Does using vehicle {} mean encountering less stops than when using vehicle {}?
+Would passengers assigned to vehicle {} encounter less stoppages compared to using vehicle {}?
+Is there a route with less stops available if one opts for vehicle {} over vehicle {}?
+Could using vehicle {} involve fewer stops than taking vehicle {}?
+When traveling on vehicle {}, is it probable to have fewer stops than when on vehicle {}?
+Is vehicle {} providing a route that includes fewer stops than vehicle {}?
+Does journeying in vehicle {} lead to fewer stops than if taken using vehicle {}?
+When travelling in vehicle {}, would there be fewer stopovers than when using vehicle {}?
+Is the route of vehicle {} less stop-intensive than the route of vehicle {}?
+Could one anticipate fewer stops when taking vehicle {} rather than vehicle {}?
+Is it possible to experience less frequent stops with vehicle {} compared to vehicle {}?
+Is there a route for vehicle {} that includes fewer stops than for vehicle {}?
+Does using vehicle {} involve fewer stops than traveling with vehicle {}?
+Is the route involving vehicle {} associated with less stopping than the route for vehicle {}?
+Is there a route with fewer stops available for vehicle {} than for vehicle {}?
+Could using vehicle {} lead to fewer stops than if using vehicle {}?
+Is it possible to encounter less stops when riding in vehicle {} rather than vehicle {}?
+Is the route offered by vehicle {} having fewer stops than that of vehicle {}?
+Does using vehicle {} mean fewer stops as compared to vehicle {}?
+When riding in vehicle {}, can passengers anticipate fewer stops than when they ride in vehicle {}?
+Is there a route provided by vehicle {} that has less stops than that of vehicle {}?
+Is it true that taking vehicle {} would entail fewer stops as compared to vehicle {}?
+Do passengers encounter fewer stops when on vehicle {} versus when on vehicle {}?
+Is there a route available with vehicle {} that includes fewer stops than a route with vehicle {}?
+Does selecting transport method {} over {} yield a trip with lesser stops?
+Would the stops be less frequent for passengers traveling in vehicle {} rather than vehicle {}?
+Is the route of vehicle {} characterized by fewer stops than that of vehicle {}?
+Could using vehicle {} lead to less stopping compared to vehicle {}?
+Is there a decrease in stop frequency when riding in vehicle {} rather than vehicle {}?
+Is there a route that vehicle {} offers with less stops than vehicle {}?

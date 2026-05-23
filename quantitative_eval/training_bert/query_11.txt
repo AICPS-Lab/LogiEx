@@ -1,0 +1,80 @@
+What's the anticipated delay rate for passenger pickup when using vehicle {}?
+Could you measure the probability of the passenger getting picked up late in vehicle {}?
+How likely is it that the passenger will experience a delay in pickup when in vehicle {}?
+What's the anticipated delay rate when fetching the passenger by using vehicle {}?
+Could you measure the probability of the passenger being late for pickup when using vehicle {}?
+How substantial is the probability that the passenger won't be picked up punctually if they are in vehicle {}?
+What's the anticipated delay rate while picking up the passenger in vehicle {}?
+Could you measure the probability of the passenger being picked up later than planned in vehicle {}?
+How considerable is the chance that the passenger in vehicle {} won't be picked up punctually?
+What is the anticipated delay rate in picking up the passenger when in vehicle {}?
+Can you estimate the probability of the passenger getting picked up behind schedule in vehicle {}?
+How substantial is the probability that the passenger will be delayed if assigned to vehicle {}?
+What's the anticipated delay rate for passenger pickup when using vehicle {}?
+Can you measure the probability of the passenger being picked up behind schedule in vehicle {}?
+What's the degree of probability for the passenger not being picked up punctually if riding in vehicle {}?
+What's the anticipated delay rate when picking up passengers with vehicle {}?
+Could you measure the probability of the passenger being collected later than planned in vehicle {}?
+How substantial is the chance that the passenger won't be picked up punctually if they travel in vehicle {}?
+What's the predicted delay rate for collecting the passenger when in vehicle {}?
+Can you estimate the probability of the passenger being collected later than agreed in vehicle {}?
+How considerable is the possibility that the passenger won't be collected promptly when situated in vehicle {}?
+What's the projected delay rate for picking up passengers when commuting in vehicle {}?
+Can you measure the probability of the passenger being collected later than planned when travelling in vehicle {}?
+What is the level of probability that the passenger will be delayed if they are in vehicle {}?
+What's the anticipated delay rate for passenger pickup when travelling in vehicle {}?
+How can you measure the probability of the passenger being picked up late in vehicle {}?
+How high is the probability that the passenger won't be picked up promptly if they are in vehicle {}?
+What's the anticipated delay rate for collecting the passenger while riding in vehicle {}?
+Could you calculate the probability of the passenger being collected after the scheduled time in vehicle {}?
+How high is the probability that the passenger will experience late pick-up if they are in vehicle {}?
+What's the anticipated delay rate for fetching the passenger in vehicle {}?
+Could you measure the probability of the passenger being collected after the scheduled time in vehicle {}?
+How considerable is the probability that the passenger won't be fetched at the promised time if they're in vehicle {}?
+What's the projected delay rate for passenger pick-up when using vehicle {}?
+Can you measure the probability of the passenger getting picked up beyond the scheduled time in vehicle {}?
+How considerable is the probability that the passenger won't be picked up punctually when using vehicle {}?
+What's the anticipated delay rate when picking up the passenger while on transit in vehicle {}?
+Could you measure the probability of the passenger being picked up tardily when using vehicle {}?
+How high is the probability that the passenger won't be picked up punctually when they are to travel in vehicle {}?
+What's the anticipated delay rate for passenger pick-up when using vehicle {}?
+How can you estimate the probability of the passenger being picked up behind schedule in vehicle {}?
+How substantial is the probability that the passenger in vehicle {} will not be picked up promptly?
+What's the anticipated delay rate for picking up a passenger when in vehicle {}?
+How would you measure the possibility of the passenger being picked up delayed in vehicle {}?
+What is the probability of the passenger not being picked up promptly when using vehicle {}?
+What's the projected delay rate when picking up the passenger in vehicle {}?
+Can you measure the probability of the passenger being picked up late when they are traveling in vehicle {}?
+Can you assess the probability that the passenger might experience a delay if they are assigned to vehicle {}?
+What is the predicted delay rate for collecting the passenger when journeying in vehicle {}?
+What's the probability estimate of the passenger getting picked up late when traveling in vehicle {}?
+What is the potential that the passenger will be delayed for pick-up if they are in vehicle {}?
+What's the predicted delay rate for passenger pick up when using vehicle {}?
+What's the probability of the passenger being picked up tardily in vehicle {}?
+What's the probability that the passenger won't be on schedule for pick up when using vehicle {}?
+What's the anticipated delay rate for passenger pickup when using vehicle {}?
+Could you measure the probability of the passenger getting picked up beyond the scheduled time in vehicle {}?
+How major is the chance that the passenger won't be picked up promptly when using vehicle {}?
+What is the anticipated delay rate when picking up the passenger using vehicle {}?
+Can you measure the probability of the passenger being collected late when using vehicle {}?
+How prominent is the chance of the passenger not being collected on schedule with vehicle {}?
+What is the anticipated delay rate for passenger pick-up when using vehicle {}?
+Can you measure the probability of the passenger being collected late in vehicle {}?
+How considerable is the probability that the passenger won't be picked up promptly if they are in vehicle {}?
+What is the projected delay rate for picking up the passenger in vehicle {}?
+Could you assess the probability of the passenger being collected late in vehicle {}?
+How considerable is the chance that the passenger will face a delay in pick up when using vehicle {}?
+What's the anticipated delay rate when collecting passengers in vehicle {}?
+Can you estimate the probability of the passenger being collected later than planned in vehicle {}?
+How great is the probability that the passenger will experience a late pickup when using vehicle {}?
+What's the anticipated delay rate in picking up the passenger while in vehicle {}?
+How can you measure the probability of the passenger being picked up late if they are in vehicle {}?
+What's the severity of the probability that the passenger will face a delayed pickup while in vehicle {}?
+What is the anticipated delay duration for gathering the passenger while commuting in vehicle {}?
+Can you measure the probability of the passenger's pickup timing being postponed in vehicle {}?
+How consequential is the probability that the pickup of the passenger will be behind schedule if assigned to vehicle {}?
+What's the anticipated delay rate when picking up a passenger in vehicle {}?
+Could you estimate the probability of the passenger being picked up late in vehicle {}?
+How substantial is the probability that the passenger won't be picked up punctually in vehicle {}?
+What is the projected delay in picking up the passenger when using vehicle {}?
+What is the probability of the passenger being picked up late with vehicle {}?

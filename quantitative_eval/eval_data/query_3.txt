@@ -1,0 +1,20 @@
+Could you tell me the current number of passengers in vehicle {}?
+Can you share the present count of passengers in vehicle {}?
+Would you mind telling me the current count of passengers in vehicle {}?
+Can you tell me the current number of passengers in vehicle {}?
+Could you please give the current passenger total for vehicle {}?
+Can you clarify how many passengers are currently in vehicle {}?
+Could you tell me the current number of passengers on vehicle {}?
+Could you update me on the present count of passengers in vehicle {}?
+May I know the current total passenger count for vehicle {}?
+Could you tell me the current number of passengers in vehicle {}?
+Can you update me on the present number of occupants in vehicle {}?
+Would you mind stating the existing passenger count on vehicle {}?
+Could you tell me the current number of passengers in vehicle {}?
+Can you let me know the current passenger tally for vehicle {}?
+Would you mind telling me the current count of passengers on vehicle {}?
+Could you please give me the current number of passengers in vehicle {}?
+Can you tell me how many passengers are presently in vehicle {}?
+Can you help me know the current total count of passengers in vehicle {}?
+Could you let me know the current number of passengers in vehicle {}?
+Can you tell me the present count of passengers in vehicle {}?

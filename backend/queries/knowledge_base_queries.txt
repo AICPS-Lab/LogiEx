@@ -1,0 +1,35 @@
+How will the route be planned if there are multiple passengers?
+How do you calculate the estimated delay time interval?
+Do the searching and planning happen in real-time?
+How does the algorithm handle situations which a new request appears?
+Is there a chance I would be picked up too early?
+Is it possible for the passenger to still choose the alternative route after reading the explanation though?
+Do the 150 potential future scenarios cover all the future possibilities?
+Does this algorithm have a runtime constraint?
+How does the algorithm simulate the requests of users?
+What criteria has the algorithm incorporate to determine which vehicle is the most efficient one? (i.e., current routing plan, traffic conditions, passenger plans)
+In terms of the “future requests”, how could the system know in advance how will the future request looks like?
+Will it only be computer working on planning or there is going to be some human being interruption as well? 
+How would we know there is an error if it’s only computer processing? 
+It is note specified, what the 400% and 450% enhancements are, what are the baselines? 
+Why is getting dropped off early a bad thing?
+I’m not sure how the “potential scenario” works. Do we simulate until the end of the day for a particular scenario?
+When choosing the recommended vehicle and picking up our first passenger, we still have a possibility of picking up 4 more passengers before dropping off our first passenger, how is it calculated based on other pick-ups? 
+Would it be more delayed for the first passenger, or the other passengers might arrive earlier? 
+Would the passenger be able to schedule pickups in advance? How does that affect the route planning algorithm? 
+When explaining why the passenger was not assigned to other vehicles, I have no concept of what a ‘score’ is. 
+Isn’t an early drop-off time more desired by the passenger? 
+What are some of the criteria used by the algorithm when determining the performance of each route/vehicle? 
+The composite score, what’s the upper limit?
+How was the composite score calculated?
+To which standards should I be interpreting the composite scores?
+Does this prediction account for any delay on the part of the passenger or the other passengers? 
+Why the percentage of total early drop-off case should be consistent to the specific case? 
+For the ones where you just said more some # more scenarios were evaluated, can you give more explanation? 
+What could be a potential future scenario in this case?
+How are different factors weighted during the decision process?
+Will the choice be discarded immediately once it violates any violations? 
+If all options violate some violation constraints, is the optimal choice selected (the least violation one), or the algorithm would not assign a car? 
+How does the other vehicles performed in terms of the drop off time compared to this one?
+Also why does the system not anticipate a late drop off time? 
+What is being considered when doing the composite score? 

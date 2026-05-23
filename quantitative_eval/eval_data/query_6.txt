@@ -1,0 +1,20 @@
+Can you specify the projected arrival time for the passenger scheduled on vehicle {}?
+Would you be able to compute and let me know the projected time of arrival for the passenger in vehicle {}?
+Could you inform me of the probable arrival time for the passenger travelling in vehicle {}?
+Can you specify the projected time of arrival for the passenger travelling in vehicle {}?
+Would you mind calculating the probable time of arrival for the passenger in vehicle {}?
+Could you predict the time of arrival for the passenger using vehicle {}?
+Can you specify the anticipated arrival time of the passenger if they are allocated vehicle {}?
+Can you determine and let me know about the projected arrival time of the passenger in vehicle {}?
+Can you inform me about the probable arrival time of the passenger if they use vehicle {}?
+Can you provide the projected arrival time for the passenger traveling in vehicle {}?
+Could you compute and notify me about the estimated time of arrival for the passenger in vehicle {}?
+Could you inform me of the probable arrival time for the passenger using vehicle {}?
+Can you specify the anticipated arrival time for the passenger traveling in vehicle {}?
+Could you compute and let me know the expected arrival time of the passenger in vehicle {}?
+Could you predict the probable arrival time for the passenger in vehicle {}?
+Could you inform me about the estimated time of arrival for the passenger assigned to vehicle {}?
+I would appreciate it if you could compute and provide the expected time of arrival for the passenger in vehicle {}.
+Can you inform me about the probable arrival time of the passenger who is travelling in vehicle {}?
+Can you please provide the anticipated arrival time of the passenger traveling in vehicle {}?
+Could you inform me about the probable arrival timing of the passenger traveling in vehicle {}?
